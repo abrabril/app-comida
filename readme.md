@@ -4,3 +4,4 @@
 * Agregar alcarrito debería dejar de duplicar items
 * Publicar
 "# app-comida" 
+"# app-comida" 
